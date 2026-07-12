@@ -1,10 +1,9 @@
 {
-  "name": "EDITH-MD",
-  "description": "Javascript WhatsApp bot powered by Bandaheali",
+  "name": "Naveed-MD",
+  "description": "Javascript WhatsApp bot powered by Naveed",
   "logo": "https://cdn-bandaheali.zone.id/edith/alive.jpg",
-  "keywords": ["EDITH-MD", "WhatsApp Bot", "Bandaheali"],
+  "keywords": ["Naveed-MD", "WhatsApp Bot"],
   "success_url": "/",
-  "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put your Baileys session-id here (Base64).",
@@ -18,4 +17,4 @@
     }
   ],
   "stack": "heroku-24"
-    }
+}

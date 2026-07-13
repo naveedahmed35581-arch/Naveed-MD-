@@ -100,16 +100,6 @@
       "required": false,
       "value": "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴀᴠᴇᴇᴅ-ᴍᴅ*"
     },
-    "ALIVE_IMG": {
-      "description": "Alive message image URL.",
-      "required": false,
-      "value": "https://files.catbox.moe/x2qij1.jpg"
-    },
-    "LIVE_MSG": {
-      "description": "Alive message text.",
-      "required": false,
-      "value": "> I'm alive*NAVEED-MD*🇵🇰"
-    },
     "READ_MESSAGE": {
       "description": "Automatically read all messages.",
       "required": false,

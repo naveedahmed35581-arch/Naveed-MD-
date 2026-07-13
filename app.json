@@ -135,11 +135,6 @@
       "required": false,
       "value": "true"
     },
-    "AUTO_VOICE": {
-      "description": "Enable auto-voice replies.",
-      "required": false,
-      "value": "false"
-    },
     "AUTO_STICKER": {
       "description": "Enable auto-sticker replies.",
       "required": false,
@@ -154,11 +149,6 @@
       "description": "Keep bot status always online.",
       "required": false,
       "value": "false"
-    },
-    "PUBLIC_MODE": {
-      "description": "Enable public mode.",
-      "required": false,
-      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Show typing status automatically.",
@@ -175,11 +165,6 @@
       "required": false,
       "value": "923035512967"
     },
-    "ANTI_VV": {
-      "description": "Enable anti-view once protection.",
-      "required": false,
-      "value": "true"
-    },
     "ANTI_CALL": {
       "description": "Reject incoming calls automatically.",
       "required": false,
@@ -188,7 +173,7 @@
     "REJECT_MSG": {
       "description": "Message sent when a call is rejected.",
       "required": false,
-      "value": "*Access denied. You are not allowed to use this bot.*"
+      "value": "Your Call Was Reject by bot"
     },
     "ANTI_DELETE": {
       "description": "Enable anti-delete protection.",
@@ -205,11 +190,10 @@
       "required": false,
       "value": "false"
     },
-    "ANTI_LINK_KICK": {
-      "description": "Kick users who send links.",
-      "required": false,
-      "value": "false"
-    },
     "ANTI_LINK_ACTION": {
       "description": "Action for anti-link (warn/kick/delete).",
-      
+      "required": false,
+      "value": "delete"
+    }
+  }
+}
